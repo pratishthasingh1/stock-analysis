@@ -7,13 +7,13 @@ While the script loops through the stock data, it was reading and storing values
 
 ## Results
 The results in the all stock analysis is below: 
-![all stock]()
+![all stock](https://github.com/pratishthasingh1/stock-analysis/blob/master/2018_all.png?raw=true)
 
 The results of the 2017 analysis:
-![2017 stock]()
+![2017 stock](https://github.com/pratishthasingh1/stock-analysis/blob/master/2017.png?raw=true)
 
 The results of the 2018 analysis:
-![2018 stock]()
+![2018 stock](https://github.com/pratishthasingh1/stock-analysis/blob/master/2018.png?raw=true)
 
 ## Summary
 The advantages of refractoring code in general is it's faster and more organized. The program itself can help make debugging easier. Using whitespaces between code allows commenting which is beneficial to those who want to see how the analysis was done. 
