@@ -7,12 +7,15 @@ While the script loops through the stock data, it was reading and storing values
 
 ## Results
 The results in the all stock analysis is below: 
+
 ![all stock](https://github.com/pratishthasingh1/stock-analysis/blob/master/2018_all.png?raw=true)
 
 The results of the 2017 analysis:
+
 ![2017 stock](https://github.com/pratishthasingh1/stock-analysis/blob/master/2017.png?raw=true)
 
 The results of the 2018 analysis:
+
 ![2018 stock](https://github.com/pratishthasingh1/stock-analysis/blob/master/2018.png?raw=true)
 
 ## Summary
